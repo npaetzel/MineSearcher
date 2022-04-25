@@ -1,0 +1,16 @@
+<minesweeper>
+	<highscores>
+		<highscore difficulty="easy">
+			<name>Jesus</name>
+			<time>800</time>
+		</highscore>
+		<highscore difficulty="normal">
+			<name>John Wick</name>
+			<time>600</time>
+		</highscore>
+		<highscore difficulty="hard">
+			<name>Nico</name>
+			<time>400</time>
+		</highscore>
+	</highscores>
+</minesweeper>
